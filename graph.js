@@ -1,4 +1,4 @@
-lass Vertex {
+class Vertex {
   constructor(value) {
     this.value = value;
     this.edges = [];
